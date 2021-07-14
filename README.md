@@ -20,6 +20,10 @@ Instruction pour l'application mobile :
 - Mettre l'apk (dans L3Games-Dossier) sur l'appareil sous Android
 - Trouver sur l'appareil l'apk et l'installer.
 
+## Jeux disponible
+
+![Sommaire](https://github.com/KarisG/L3Games/blob/main/Jeuxdisp.png)
+
 ## Images de l'application
 
 ![L3Games](https://github.com/KarisG/L3Games/blob/main/L3Gamesimg.png)
