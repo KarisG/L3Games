@@ -1,0 +1,2 @@
+# L3Games
+L3Games est une application mobile fait par des étudiants pour des étudiants. Elle permet de réviser le contenu de nos cours de L3 de manière divertissante par le biais de jeux. Afin d'avancer dans ces jeux, il vous sera demandé d'utiliser les connaissances nécessaire à avoir en tant qu'étudiant de L3 en école d'ingénieur. Cette application peut également attirer toute personne s'intéressant à ces connaissances. Pour garder un côté compétitif et pousser les étudiants à plus s'investir, l'application est lié à une base de donnée permettant d'évaluer les scores.
