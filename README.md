@@ -25,3 +25,5 @@ Instruction pour l'application mobile :
 ![L3Games](https://github.com/KarisG/L3Games/blob/main/L3Gamesimg.png)
 
 ## Image sur tablette
+
+![L3Games sur tablette](https://github.com/KarisG/L3Games/blob/main/L3GamesTablette.PNG)
